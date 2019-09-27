@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.wxpay;
 
 import com.facebook.react.bridge.Callback;
 import com.facebook.react.bridge.Promise;

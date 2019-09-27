@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.wxpay;
 
 
 import android.app.Activity;
